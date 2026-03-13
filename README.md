@@ -1,2 +1,15 @@
-# engenharia-de-prompt-estudos
-Documentando minha jornada com IAs generativas e automação de estudos em Ciência da Computação.
+# 🧠 Engenharia de Prompt: Meus Estudos (1º Período CC)
+
+Repositório criado para documentar técnicas, experimentos e prompts que estou desenvolvendo durante a faculdade.
+
+## 🚀 O que tem aqui?
+- **Tutor Socrático:** Prompt para transformar a IA em um professor que não dá a resposta de bandeja.
+- **Dicas de Estudo:** Métodos para usar o ChatGPT/Gemini em matérias como Cálculo e Algoritmos.
+- **Exercícios:** Testes de *Role Prompting* e *Few-Shot Prompting*.
+
+## 🛠️ Ferramentas
+- [GPT-5/4o](https://chat.openai.com)
+- [Google Gemini](https://gemini.google.com)
+
+---
+> "Um bom programador sabe o que escrever. Um engenheiro de prompt sabe o que perguntar."
