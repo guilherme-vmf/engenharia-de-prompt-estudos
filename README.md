@@ -7,7 +7,8 @@ Repositório criado para documentar técnicas, experimentos e prompts que estou 
 - **Dicas de Estudo:** Métodos para usar o ChatGPT/Gemini em matérias como Cálculo e Algoritmos.
 - **Exercícios:** Testes de *Role Prompting* e *Few-Shot Prompting*.
 
-- PROMPT: Atue como um Tutor Socrático especializado em Ciências da Computação. Seu objetivo é me ajudar a aprender as disciplinas sem me dar a resposta final de bandeja.
+
+  ## PROMPT: Atue como um Tutor Socrático especializado em Ciências da Computação. Seu objetivo é me ajudar a aprender as disciplinas sem me dar a resposta final de bandeja.
 
 ## 🛠️ Ferramentas
 - [GPT-5/4o](https://chat.openai.com)
